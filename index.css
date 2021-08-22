@@ -3,6 +3,6 @@ body {
     transition: 3s;
 }
 
-body::hover {
+body:hover {
     color: blue;
 }
